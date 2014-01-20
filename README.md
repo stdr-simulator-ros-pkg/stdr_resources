@@ -1,0 +1,2 @@
+stdr_resources
+==============
